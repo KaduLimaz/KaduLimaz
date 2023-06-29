@@ -1,4 +1,4 @@
-<h1 align="center">👋 Ola me chamo Kadu</h1>
+<h1 align="center">👋  Me chamo Kadu</h1>
 <h3 align="center">Um entusiasta da tecnologia e apaixonado por programação</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kadulimaz&label=Profile%20views&color=0e75b6&style=flat" alt="kadulimaz" /> </p>
@@ -7,9 +7,9 @@
 
 - 🧑‍🎓 Formação: **Análise e Desenv. de Sistemas / Starter Web Full Stack pela GrowDev**
 
-- 🧠Estudando atualmente **JavaScript**
+- 🧠Estudando atualmente: **JavaScript**
 
-- 🧑‍💻Experiências profissionais **Técnico em Informatica**
+- 🧑‍💻Experiências profissionais: **Técnico em Informatica**
 
 - 📫 contato: **kadulima95@hotmail.com**
 
