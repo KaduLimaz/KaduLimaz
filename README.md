@@ -10,7 +10,7 @@
 
 - 🧑‍🎓 Formação: **Análise e Desenv. de Sistemas / Starter Web Full Stack pela GrowDev**
 
-- 🧠Estudando atualmente: **JavaScript**
+- 🧠Estudando atualmente: **JavaScript / TypeScript**
 
 - 🧑‍💻Experiências profissionais: **Técnico em Informatica**
 
